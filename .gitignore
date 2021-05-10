@@ -1,0 +1,4 @@
+.vscode
+dist
+debug.log
+node_modules
